@@ -1,0 +1,5 @@
+# Loan-Application-Form![blank 1stpage](https://github.com/sakshiy2000/Loan-Application-Form/assets/127825022/105aa70c-aac9-4b31-8ed9-9b95eb3f22ea)
+![blank 2ndpage](https:/![fill form](https://github.com/sakshiy2000/Loan-Application-Form/assets/127825022/4ac077f0-c3a2-40c0-94d9-ef5e8f0a799c)
+/github.com/sakshiy2000/Loan-Application-Form/assets/127825022/223c32fe-c7f1-47ca-a2d6-658ec302e46e)
+![validation sucessful](https://github.com/sakshiy2000/Loan-Application-Form/assets/127825022/2ba12d19-d62c-4ff1-9193-7f881b2eed94)
+![incorrect otp](https://github.com/sakshiy2000/Loan-Application-Form/assets/127825022/289ecdab-91bf-4ed6-907d-2844352f812d)
